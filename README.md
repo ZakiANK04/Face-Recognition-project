@@ -1,6 +1,6 @@
 # Face Recognition App in Python
 
-This Markdown file provides an overviThis Markdown document provides an overview of a face recognition app implemented in Python. The app utilizes the FaceNet model for face embedding and similarity search. Below, we’ll cover the main components and steps involved:
+This Markdown document provides an overview of a face recognition app implemented in Python. The app utilizes the FaceNet model for face embedding and similarity search. Below, we’ll cover the main components and steps involved:
 ## Prerequisites
 
 Before running the app, make sure you have the following installed:
